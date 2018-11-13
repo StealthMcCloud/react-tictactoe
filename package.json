@@ -2,7 +2,7 @@
   "name": "react-tictactoe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://stealthmccloud.github.io/react-tictactoe/",
+  "homepage": "https://StealthMcCloud.github.io/react-tictactoe/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
