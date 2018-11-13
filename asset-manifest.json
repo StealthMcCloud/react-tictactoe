@@ -1,13 +1,13 @@
 {
-  "main.css": "/StealthMcCloud/react-tictactoe/static/css/main.c1a03b41.chunk.css",
-  "main.js": "/StealthMcCloud/react-tictactoe/static/js/main.736ec747.chunk.js",
-  "main.js.map": "/StealthMcCloud/react-tictactoe/static/js/main.736ec747.chunk.js.map",
-  "static/js/1.07861e9d.chunk.js": "/StealthMcCloud/react-tictactoe/static/js/1.07861e9d.chunk.js",
-  "static/js/1.07861e9d.chunk.js.map": "/StealthMcCloud/react-tictactoe/static/js/1.07861e9d.chunk.js.map",
-  "runtime~main.js": "/StealthMcCloud/react-tictactoe/static/js/runtime~main.02f05487.js",
-  "runtime~main.js.map": "/StealthMcCloud/react-tictactoe/static/js/runtime~main.02f05487.js.map",
-  "static/css/main.c1a03b41.chunk.css.map": "/StealthMcCloud/react-tictactoe/static/css/main.c1a03b41.chunk.css.map",
-  "index.html": "/StealthMcCloud/react-tictactoe/index.html",
-  "precache-manifest.34975c56a94ce5c69e8894549d5b1d1b.js": "/StealthMcCloud/react-tictactoe/precache-manifest.34975c56a94ce5c69e8894549d5b1d1b.js",
-  "service-worker.js": "/StealthMcCloud/react-tictactoe/service-worker.js"
+  "main.css": "/react-tictactoe/static/css/main.c1a03b41.chunk.css",
+  "main.js": "/react-tictactoe/static/js/main.736ec747.chunk.js",
+  "main.js.map": "/react-tictactoe/static/js/main.736ec747.chunk.js.map",
+  "static/js/1.07861e9d.chunk.js": "/react-tictactoe/static/js/1.07861e9d.chunk.js",
+  "static/js/1.07861e9d.chunk.js.map": "/react-tictactoe/static/js/1.07861e9d.chunk.js.map",
+  "runtime~main.js": "/react-tictactoe/static/js/runtime~main.b4cf06d2.js",
+  "runtime~main.js.map": "/react-tictactoe/static/js/runtime~main.b4cf06d2.js.map",
+  "static/css/main.c1a03b41.chunk.css.map": "/react-tictactoe/static/css/main.c1a03b41.chunk.css.map",
+  "index.html": "/react-tictactoe/index.html",
+  "precache-manifest.a497d565320a27a074a2610b9def8f98.js": "/react-tictactoe/precache-manifest.a497d565320a27a074a2610b9def8f98.js",
+  "service-worker.js": "/react-tictactoe/service-worker.js"
 }

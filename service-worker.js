@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/StealthMcCloud/react-tictactoe/precache-manifest.34975c56a94ce5c69e8894549d5b1d1b.js"
+  "/react-tictactoe/precache-manifest.a497d565320a27a074a2610b9def8f98.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/StealthMcCloud/react-tictactoe/index.html", {
+workbox.routing.registerNavigationRoute("/react-tictactoe/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
